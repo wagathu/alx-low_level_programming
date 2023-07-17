@@ -1,6 +1,0 @@
-struct dog {
-	name *char;
-	age float;
-	owner *cha;r
-
-};
